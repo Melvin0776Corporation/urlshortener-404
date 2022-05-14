@@ -1,7 +1,7 @@
 /*
  * Simple - 404 Page
- * Build Date: October 2016
- * Author: joashp
+ * Build Date: May 2022
+ * Author: Melvin0776
  */
 
 $(window).load(function() {
@@ -27,7 +27,7 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 5200,
-            text: 'Click on the links below to do something, Thanks!'
+            text: 'Click on the link below to go to our Info Page, Thanks!'
         });
         $container = $('#container');
         $message = $('#message');
