@@ -27,7 +27,7 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 5200,
-            text: 'Click on the link below to go to our Info Page, Thanks!'
+            text: 'Click on the link below, Thanks!'
         });
         $container = $('#container');
         $message = $('#message');
